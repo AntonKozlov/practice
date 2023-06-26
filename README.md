@@ -14,7 +14,7 @@ The concrete scope is yet to be defined, it can grow or shrink.
 
 ## Static Analyzer based on Graal VM
 
-Keywords: Research, Compilers, Java
+Keywords: Engineering, Research, Compilers, Java
 
 There is a powerful toolbox for Java program analysis and compilation collected at https://www.graalvm.org.
 One of the possible applications is Java programs static analysis with a greater understanding of the language and runtime semantics.
